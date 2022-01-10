@@ -1,0 +1,72 @@
+{
+    "version": "v1.0",
+    "publish": "2021/12/31",
+    "titles": [
+        "排名",
+        "公司",
+        "國家",
+        "市佔率"
+    ],
+    "data": [
+        {
+            "Ranking": 1,
+            "Company": "TSMC",
+            "Country": "Taiwan",
+            "Ratio": "53.1"
+        },
+        {
+            "Ranking": 2,
+            "Company": "Samsung",
+            "Country": "SouthKorea",
+            "Ratio": "17.3"
+        },
+        {
+            "Ranking": 3,
+            "Company": "UMC聯電",
+            "Country": "Taiwan",
+            "Ratio": "7.2"
+        },
+        {
+            "Ranking": 4,
+            "Company": "格羅方德",
+            "Country": "US",
+            "Ratio": "6.1"
+        },
+        {
+            "Ranking": 5,
+            "Company": "中芯國際",
+            "Country": "Taiwan",
+            "Ratio": "5.3"
+        },
+        {
+            "Ranking": 6,
+            "Company": "華虹半導體",
+            "Country": "China",
+            "Ratio": "2.6"
+        },
+        {
+            "Ranking": 7,
+            "Company": "Powerchip力積電",
+            "Country": "Taiwan",
+            "Ratio": "1.8"
+        },
+        {
+            "Ranking": 8,
+            "Company": "世界先進",
+            "Country": "Taiwan",
+            "Ratio": "1.4"
+        },
+        {
+            "Ranking": 9,
+            "Company": "高塔半導體",
+            "Country": "Israel",
+            "Ratio": "1.4"
+        },
+        {
+            "Ranking": 10,
+            "Company": "東部高科",
+            "Country": "SouthKorea",
+            "Ratio": "1"
+        }
+    ]
+}
